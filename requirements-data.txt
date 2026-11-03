@@ -1,0 +1,4 @@
+# Optional: local HuggingFace datasets and Parquet/Feather input.
+datasets==3.6.0
+pandas==2.3.3
+pyarrow==25.0.1

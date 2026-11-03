@@ -1,0 +1,9 @@
+# Versions exercised by the CPU reference and native Qwen3-VL tests.
+# Install a matching CUDA/CPU build of torch and torchvision for your hardware.
+torch==2.6.0
+torchvision==0.21.0
+transformers==4.57.6
+accelerate==1.15.0
+Pillow==12.3.0
+safetensors==0.8.0
+tqdm==4.70.1

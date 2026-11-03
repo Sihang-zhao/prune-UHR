@@ -1,0 +1,21 @@
+{
+  "source_root": "prune",
+  "extraction_date": "2026-11-03",
+  "original_sha256": {
+    "testv.py": "e4372976ec8b55147732c80be8ba07b26ac8c40de2ef65a9f52ad8e9e7bd8415",
+    "testx.py": "85fc092f57c02f72e874e95013834586bc49f08700e80403acab24c0035d90cf",
+    "testp.py": "38b6083b529bcb3b17917b790e0e026e0f98cf92fc8bb5e7ec3028aaaaff927d",
+    "compression/q_flowcover.py": "a6e4c02d0dfc6c8a62f646a2375220364256d56bc8f85929f0c0f38803ae6d2d",
+    "compression/qwen3_vl_modes.py": "019ba06020f88faf222cdb0d13002145cd44820be9cef21c1d3735e8f8a1d2ea",
+    "compression/testx_worker.py": "1d5ed2c0549f6158131c841ae39d0c196ae424928c7cc65d30d352a3b0271582",
+    "compression/readout_verified_bridge.py": "bc3cf707194486579f4545490e6f87375cf56c9d6eaa13d46d458cfd82172993",
+    "model/qwen_vl.py": "02fd88623ffa24d115839a380c476ad1e30e77fe8cf86fffa7834aee231c8937",
+    "model/training_free_pruning.py": "33855a838ea93deec50a693684a2590b1fe87584d80a641380bb9915ae860f5e",
+    "utils/data.py": "ee819dd8c83a637267a14d21dfbc312985a34eb5a2f3dfe34c604fa0b0d22507",
+    "utils/images.py": "93da406e9d3c7e7430401310cf849e6975321e8941b418844bb175b85ecd7648",
+    "utils/metrics.py": "7d10483e2c84125aedbc884a1d7e723be4743178153d1cd4d4bfadddb804b1eb",
+    "utils/tasks.py": "04aff334f70c25a6b87d7caeec76029084f06b705398eadd28de8f384db9b8ac",
+    "utils/xlrs_oluc.py": "d428cc988334f01b316d33cce55d0b6aac0dbe21d101f75be8838fc27baf914c"
+  },
+  "unchanged_algorithm": "compression/q_flowcover.py"
+}
